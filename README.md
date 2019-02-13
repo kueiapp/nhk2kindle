@@ -1,3 +1,3 @@
 # nhk2kindle
-For learning Japanese
-Learning Japanese is fun
+For learning Japanese.\r\n
+Learning Japanese is fun.
